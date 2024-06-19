@@ -5,42 +5,44 @@
 ## 🛠️ Core Skills and Competencies
 
 ![Financial Mathematics](https://img.shields.io/badge/Financial%20Mathematics-blue)
-![Algorithmic Trading](https://img.shields.io/badge/Algorithmic%20Trading-blue)
-![R](https://img.shields.io/badge/R-blue)
-![PyTorch](https://img.shields.io/badge/PyTorch-blue)
-![Git](https://img.shields.io/badge/Git-blue)
-![SciKit-Learn](https://img.shields.io/badge/SciKit--Learn-blue)
-![Systems Architecture](https://img.shields.io/badge/Systems%20Architecture-blue)
+![Algorithmic Trading](https://img.shields.io/badge/Algorithmic%20Trading-green)
+![R](https://img.shields.io/badge/R-lightgrey)
+![PyTorch](https://img.shields.io/badge/PyTorch-orange)
+![Git](https://img.shields.io/badge/Git-red)
+![SciKit-Learn](https://img.shields.io/badge/SciKit--Learn-yellow)
+![Systems Architecture](https://img.shields.io/badge/Systems%20Architecture-blueviolet)
 ![Docker](https://img.shields.io/badge/Docker-blue)
-![Agile Methodologies](https://img.shields.io/badge/Agile%20Methodologies-blue)
-![Cloud Computing](https://img.shields.io/badge/Cloud%20Computing-blue)
-![HTML/CSS](https://img.shields.io/badge/HTML/CSS-blue)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-blue)
-![SQL](https://img.shields.io/badge/SQL-blue)
-![Keras](https://img.shields.io/badge/Keras-blue)
+![Agile Methodologies](https://img.shields.io/badge/Agile%20Methodologies-green)
+![Cloud Computing](https://img.shields.io/badge/Cloud%20Computing-lightgrey)
+![HTML/CSS](https://img.shields.io/badge/HTML/CSS-orange)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-red)
+![SQL](https://img.shields.io/badge/SQL-yellow)
+![Keras](https://img.shields.io/badge/Keras-blueviolet)
 ![Data Analysis](https://img.shields.io/badge/Data%20Analysis-blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-blue)
-![Web Development](https://img.shields.io/badge/Web%20Development-blue)
-![DevOps](https://img.shields.io/badge/DevOps-blue)
-![Continuous Integration](https://img.shields.io/badge/Continuous%20Integration-blue)
-![Test Driven Development](https://img.shields.io/badge/Test%20Driven%20Development-blue)
-![VBA](https://img.shields.io/badge/VBA-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-green)
+![Web Development](https://img.shields.io/badge/Web%20Development-lightgrey)
+![DevOps](https://img.shields.io/badge/DevOps-orange)
+![Continuous Integration](https://img.shields.io/badge/Continuous%20Integration-red)
+![Test Driven Development](https://img.shields.io/badge/Test%20Driven%20Development-yellow)
+![VBA](https://img.shields.io/badge/VBA-blueviolet)
 ![Python](https://img.shields.io/badge/Python-blue)
-![Java](https://img.shields.io/badge/Java-blue)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-blue)
-![Predictive Modelling](https://img.shields.io/badge/Predictive%20Modelling-blue)
-![RESTful Services](https://img.shields.io/badge/RESTful%20Services-blue)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-blue)
-![Continuous Deployment](https://img.shields.io/badge/Continuous%20Deployment-blue)
+![Java](https://img.shields.io/badge/Java-green)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-lightgrey)
+![Predictive Modelling](https://img.shields.io/badge/Predictive%20Modelling-orange)
+![RESTful Services](https://img.shields.io/badge/RESTful%20Services-red)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-yellow)
+![Continuous Deployment](https://img.shields.io/badge/Continuous%20Deployment-blueviolet)
 ![Version Control](https://img.shields.io/badge/Version%20Control-blue)
-![NLP](https://img.shields.io/badge/NLP-blue)
+![NLP](https://img.shields.io/badge/NLP-green)
 
 ---
 
 ## 📈 GitHub Stats
 
-![VJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=tradervijeth&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tradervijeth&layout=compact&theme=radical)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tradervijeth&show_icons=true&theme=radical" alt="VJ's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tradervijeth&layout=compact&theme=radical" alt="Top Langs" />
+</div>
 
 ---
 
