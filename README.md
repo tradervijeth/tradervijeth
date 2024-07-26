@@ -2,7 +2,7 @@
 
 ---
 
-## 🛠️ Core Skills and Competencies
+## 🛠️ Core Skills and Competencie
 
 ![Financial Mathematics](https://img.shields.io/badge/Financial%20Mathematics-blue)
 ![Algorithmic Trading](https://img.shields.io/badge/Algorithmic%20Trading-green)
