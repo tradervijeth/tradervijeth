@@ -1,88 +1,57 @@
 # Hi there, I'm VJ 👋
 
----
+I'm a Developer with expertise in algorithmic trading and machine learning. Recently completed my MSc Computer Science with **Distinction** and passionate about exploring the fascinating world of Reinforcement Learning! 🚀
 
-## 🛠️ Core Skills and Competencies
+## 🎯 Featured Projects
 
-![Financial Mathematics](https://img.shields.io/badge/Financial%20Mathematics-blue)
-![Algorithmic Trading](https://img.shields.io/badge/Algorithmic%20Trading-green)
-![R](https://img.shields.io/badge/R-lightgrey)
-![PyTorch](https://img.shields.io/badge/PyTorch-orange)
-![Git](https://img.shields.io/badge/Git-red)
-![SciKit-Learn](https://img.shields.io/badge/SciKit--Learn-yellow)
-![Systems Architecture](https://img.shields.io/badge/Systems%20Architecture-blueviolet)
-![Docker](https://img.shields.io/badge/Docker-blue)
-![Agile Methodologies](https://img.shields.io/badge/Agile%20Methodologies-green)
-![Cloud Computing](https://img.shields.io/badge/Cloud%20Computing-lightgrey)
-![HTML/CSS](https://img.shields.io/badge/HTML/CSS-orange)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-red)
-![SQL](https://img.shields.io/badge/SQL-yellow)
-![Keras](https://img.shields.io/badge/Keras-blueviolet)
-![Data Analysis](https://img.shields.io/badge/Data%20Analysis-blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-green)
-![Web Development](https://img.shields.io/badge/Web%20Development-lightgrey)
-![DevOps](https://img.shields.io/badge/DevOps-orange)
-![Continuous Integration](https://img.shields.io/badge/Continuous%20Integration-red)
-![Test Driven Development](https://img.shields.io/badge/Test%20Driven%20Development-yellow)
-![VBA](https://img.shields.io/badge/VBA-blueviolet)
-![Python](https://img.shields.io/badge/Python-blue)
-![Java](https://img.shields.io/badge/Java-green)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-lightgrey)
-![Predictive Modelling](https://img.shields.io/badge/Predictive%20Modelling-orange)
-![RESTful Services](https://img.shields.io/badge/RESTful%20Services-red)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-yellow)
-![Continuous Deployment](https://img.shields.io/badge/Continuous%20Deployment-blueviolet)
-![Version Control](https://img.shields.io/badge/Version%20Control-blue)
-![NLP](https://img.shields.io/badge/NLP-green)
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <b>Algorithmic Trading Platform</b><br/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>
+      <p>A sophisticated trading platform leveraging machine learning for market prediction</p>
+    </td>
+    <td align="center" width="50%">
+      <b>ML Risk Management System</b><br/>
+      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+      <p>Advanced risk management system using predictive modeling</p>
+    </td>
+  </tr>
+</table>
 
----
+## 💻 Tech Stack
 
-## 📈 GitHub Stats
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+
+### Frameworks & Tools
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+### Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tradervijeth&show_icons=true&theme=radical" alt="VJ's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tradervijeth&layout=compact&theme=radical" alt="Top Langs" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tradervijeth&layout=compact&theme=radical&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tradervijeth&show_icons=true&theme=radical&hide_border=true"/>
 </div>
 
----
+## 🌱 Current Focus
 
-## 🔭 Recent Work Experience
+- 🎓 MSc Computer Science (Distinction)
+- 🤖 Reinforcement Learning in Trading
+- ☁️ Advanced Cloud Architecture
+- 🔄 CI/CD Pipeline Optimization
 
-### Developer
-**Oct 2019 – Oct 2023**
-- Developed and managed an algorithmic trading solution, enhancing market monitoring and risk management, improving profitability by 15%.
-- Integrated advanced machine learning techniques, increasing predictive accuracy by 20%.
-- Led the integration of PyTorch and TensorFlow, reducing manual processes by 30%.
-
-### Case Handler
-**Oct 2019 – Feb 2020**
-- Successfully handled PPI redress cases, ensuring compliance with regulatory standards and enhancing customer satisfaction.
-- Utilised MS Office, especially Access, to create and manage databases for pay-outs, improving data accuracy and processing speed.
-- Collated data from multiple systems into a centralised spreadsheet, streamlining information retrieval and reporting processes.
-- Created automated and manual letter templates, reducing document generation time by 25%.
-
-### Case Handler
-**May 2019 – Oct 2019**
-- Conducted thorough reviews of pension product cases, analysing responses and progressing cases through defined processes, enhancing decision-making accuracy.
-- Managed telephony conversations with customers, gathering necessary data efficiently and building comprehensive case files.
-- Ensured all reviews and processes adhered to policies and regulations, contributing to the firm’s compliance record.
-- Became the SME within 1.5 months, assisting team members with queries and reporting progress to the team leader, leading to improved team performance and productivity.
-
----
-
-## 🌱 What I'm Learning
-
-- Currently pursuing **MSc Computer Science** and exploring **Reinforcement Learning** and its applications in trading algorithms.
-- Enhancing my knowledge in **Cloud Computing** with a focus on **AWS** and **Azure** services.
-
----
-
-## 🤔 My Interests
-
-- **Algorithmic Trading**: Developing strategies and tools for automated trading.
-- **Machine Learning**: Applying ML techniques to solve real-world problems.
-- **Web Development**: Building responsive and dynamic web applications.
-
----
-
-![Profile views](https://gpvc.arturio.dev/tradervijeth)
+![Profile Views](https://komarev.com/ghpvc/?username=tradervijeth&color=brightgreen)
