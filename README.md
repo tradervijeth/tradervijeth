@@ -1,6 +1,6 @@
 # Hi there, I'm VJ 👋
 
-I'm a Full Stack Developer with expertise in algorithmic trading and machine learning. Recently completed my MSc Computer Science with **Distinction**, specializing in building robust, scalable applications! 🚀
+I'm a Full Stack Developer with expertise in algorithmic trading and machine learning. Recently completed my MSc Computer Science with **Distinction**, specializing in building robust, scalable applications! 🚀 
 
 ## 🎯 Featured Projects
 
